@@ -1,5 +1,5 @@
 # jupyter books
-_build
+_build/
 
 # checkpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
