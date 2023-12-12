@@ -8,6 +8,7 @@ parts:
     chapters:
       - file: about_me.md
       - file: cv.md
+      - file: modify.md
   - caption: Example of Analysis
     chapters:
       - file: analysis_example.ipynb
